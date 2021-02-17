@@ -112,3 +112,13 @@ Our third action `if x % 5 == 0` will add `Buzz` to our list if the current valu
 Not every for loop needs to be a list comprehension. If a loop is so complex that you spend sleepless hours trying to puzzle out how to write it as a list comprehension, **it may be a sign that the loop shouldn't actually be written as a list comprehension.**
 
 Remember, the main purpose of these is to save time, save space, and make code efficient.
+
+## Biggest thing to remember:
+
+List Comps are a bit backward in that the action comes first.
+
+For example:
+
+**Incorrect Performing Action:** `x % 3 ==0 'Fizz'`
+
+**Correct Performing Action:** `'Fizz' if x % 3 == 0`

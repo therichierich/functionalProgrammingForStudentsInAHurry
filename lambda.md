@@ -1,7 +1,13 @@
 <img src="./imgs/lambdafunc/banner.png">
 
-# Lambda Functions
+# Lambda (Anonymous) Functions
 
 <a href="./README.md">Functional Programming</a> | <a href="./listcomp.md">List Comprehensions</a>
 
-Still working on.
+# What ARE those?
+
+Iron Man is having a party.
+
+```
+
+```
