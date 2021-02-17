@@ -59,24 +59,7 @@ A **lambda function** is a single line function that is intended to be used once
 
 map() returns a map object, so we're using **list()** to print the Hulkified party list as a list.
 
-To be fair, we could also use the function we created above like so:
-
-```
-def fix_my_party(invitees):
-    fixed = []
-
-    for x in invitees:
-        fixed.append(x.upper())
-
-    return fixed
-
-print(list(map(fix_my_party(), party_invitees)))
-
-```
-
-However, this is still too many lines for Hulk.
-
-He smashes the regular function into a lambda function
+Hulk appreciates the ingenuity and smashes the regular function in exchange for a lambda one.
 
 ### There's another reason why Hulk prefers the one-line lambda function
 
