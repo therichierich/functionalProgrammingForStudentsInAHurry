@@ -59,7 +59,7 @@ A **lambda function** is a single line function that is intended to be used once
 
 map() returns a map object, so we're using **list()** to print the Hulkified party list as a list.
 
-Hulk appreciates the ingenuity and smashes the regular function in exchange for a lambda one.
+Hulk appreciates the effectiveness and ingenuity of this approach.
 
 ### There's another reason why Hulk prefers the one-line lambda function
 
