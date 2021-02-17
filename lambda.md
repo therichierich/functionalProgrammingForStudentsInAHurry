@@ -17,7 +17,7 @@ party_invitees = ["iron man", "cap", "thor", "hawkeye", "black widow", "wasp", "
 To make the best impression, Hulk wants to make every name on this list UPPERCASE.
 
 ```
-party_invitees = ["IRON MAN", "CAP", "THOR", "HAWKEYE", "BLACK WIDDOW", "WASP", "DR STRANGE"]
+party_invitees = ["IRON MAN", "CAP", "THOR", "HAWKEYE", "BLACK WIDOW", "WASP", "DR STRANGE"]
 ```
 
 **Using a regular function, we can try for something like this:**
